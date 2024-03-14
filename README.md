@@ -1,5 +1,7 @@
 # Desafio estágio Target Sistemas
 
+## As questões 2 e 5 estão dentro do projeto java.
+
 1) Observe o trecho de código abaixo:
 
 int INDICE = 13, SOMA = 0, K = 0;
